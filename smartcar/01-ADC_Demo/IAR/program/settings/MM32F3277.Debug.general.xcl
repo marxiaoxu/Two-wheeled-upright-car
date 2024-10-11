@@ -1,0 +1,15 @@
+"D:\arm\bin\armproc.dll" 
+
+"D:\arm\bin\armJET.dll" 
+
+"C:\Users\xusiming\Desktop\提速\bp+5环正在写 减速直着过灯5.2\01-ADC_Demo\IAR\program\Debug\Exe\MM32F3277.out" 
+
+--plugin="D:\arm\bin\armbat.dll" 
+
+--device_macro="D:\arm\config\debugger\MindMotion\MM32F3270.dmac" 
+
+--flash_loader="D:\arm\config\flashloader\MindMotion\FlashMM32F327xGx.board" 
+
+
+
+
